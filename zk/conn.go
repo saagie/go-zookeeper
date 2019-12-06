@@ -4,11 +4,11 @@ package zk
 /*
 TODO:
 * make sure a ping response comes back in a reasonable time
-
+Version Kevin
 Possible watcher events:
 * Event{Type: EventNotWatching, State: StateDisconnected, Path: path, Err: err}
 */
-
+zflkzef
 import (
 	"crypto/rand"
 	"encoding/binary"
